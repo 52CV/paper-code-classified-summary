@@ -26,7 +26,7 @@ KeyWords：深度学习、机器学习、计算机视觉、人工智能。
 
 ## 3、WACV 2021 分方向论文大盘点合集
 
-- [强调应用的WACV 2021，5篇最佳论文都在这里了](https://zhuanlan.zhihu.com/p/352042288)
+-  📜[强调应用的WACV 2021，5篇最佳论文都在这里了](https://zhuanlan.zhihu.com/p/352042288)
 
 - [WACV 2021 论文大盘点-视频理解篇](https://zhuanlan.zhihu.com/p/349956079)
 
