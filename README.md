@@ -42,7 +42,7 @@ KeyWords：深度学习、机器学习、计算机视觉、人工智能。
 
 ## 4、目标检测高端算法存储库（更新ing）
 
-- 📜[历年目标检测高端算法存储库]https://github.com/52CV/ObjectDetection)
+- 📜[历年目标检测高端算法存储库](https://github.com/52CV/ObjectDetection)
 
 <a name="3">
 
