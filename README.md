@@ -19,23 +19,30 @@ KeyWords：深度学习、机器学习、计算机视觉、人工智能。
 
 ## 目录
 
-[5、CVPR 2021已接受论文存储库（更新ing）](#5)<br>
-[4、2021 年 CV 综述（更新ing）](#4)<br>
+[5、CVPR 2021已接受论文存储库（更新ing）](#6)<br>
+[4、2021 年 CV 综述（更新ing）](#5)<br>
+[4、目标检测高端算法存储库（更新ing）](#4)<br>
 [3、WACV 2021 分方向论文大盘点合集](#3)<br>
 [2、ECCV 2020 分方向论文大盘点合集](#2)<br>
 [1、CVPR 2020 分方向论文大盘点合集](#1)<br>
 
-<a name="5"/>
+<a name="6"/>
 
-## 5、CVPR 2021已接受论文存储库（更新ing）
+## 6、CVPR 2021已接受论文存储库（更新ing）
 
 - 📜[CVPR2021 分方向论文大盘点合集](https://github.com/52CV/CVPR2021-Paper)
 
+<a name="5"/>
+
+## 5、2021 年 CV 综述（更新ing）
+
+-  📜[2021 年，计算机视觉相关综述分类汇总](https://github.com/52CV/2021-CV-Survey)
+
 <a name="4"/>
 
-## 4、2021 年 CV 综述（更新ing）
+## 4、目标检测高端算法存储库（更新ing）
 
--  📜 [2021 年，计算机视觉相关综述分类汇总](https://github.com/52CV/2021-CV-Survey)
+- 📜[历年目标检测高端算法存储库]https://github.com/52CV/ObjectDetection)
 
 <a name="3">
 
