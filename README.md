@@ -11,7 +11,7 @@
 
 专业计算机视觉技术分享平台，“有价值有深度”，分享开源技术与最新论文解读，传播视觉技术的业内最佳实践。
 
-知乎/微博：我爱计算机视觉
+[知乎](https://www.zhihu.com/people/52cv)/[微博](https://weibo.com/CVML/profile?rightmod=1&wvr=6&mod=personinfo)：我爱计算机视觉
 
 官网： www.52cv.net
 
