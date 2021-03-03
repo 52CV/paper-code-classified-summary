@@ -19,34 +19,35 @@ KeyWords：深度学习、机器学习、计算机视觉、人工智能。
 
 ## 目录
 
-[6、CVPR 2021已接受论文存储库（更新ing）](#6)<br>
-[5、2021 年 CV 综述（更新ing）](#5)<br>
-[4、目标检测高端算法存储库（更新ing）](#4)<br>
-[3、WACV 2021 分方向论文大盘点合集](#3)<br>
-[2、ECCV 2020 分方向论文大盘点合集](#2)<br>
-[1、CVPR 2020 分方向论文大盘点合集](#1)<br>
+[7、CVPR 2021已接受论文存储库（更新ing）](#7)<br>
+[6、2021 年 CV 综述（更新ing）](#6)<br>
+[5、目标检测高端算法存储库（更新ing）](#5)<br>
+[4、WACV 2021 分方向论文大盘点合集](#4)<br>
+[3、ECCV 2020 分方向论文大盘点合集](#3)<br>
+[2、CVPR 2020 分方向论文大盘点合集](#2)<br>
+[1、资源分享](#1)<br>
 
-<a name="6"/>
+<a name="7"/>
 
-## 6、CVPR 2021已接受论文存储库（更新ing）
+## 7、CVPR 2021已接受论文存储库（更新ing）
 
 - 📜[CVPR2021 分方向论文大盘点合集](https://github.com/52CV/CVPR2021-Paper)
 
-<a name="5"/>
+<a name="6"/>
 
-## 5、2021 年 CV 综述（更新ing）
+## 6、2021 年 CV 综述（更新ing）
 
 -  📜[2021 年，计算机视觉相关综述分类汇总](https://github.com/52CV/2021-CV-Survey)
 
-<a name="4"/>
+<a name="5"/>
 
-## 4、目标检测高端算法存储库（更新ing）
+## 5、目标检测高端算法存储库（更新ing）
 
 - 📜[历年目标检测高端算法存储库](https://github.com/52CV/ObjectDetection)
 
-<a name="3">
+<a name="4">
 
-## 3、WACV 2021 分方向论文大盘点合集
+## 4、WACV 2021 分方向论文大盘点合集
 
 -  📜 [强调应用的WACV 2021，5篇最佳论文都在这里了](https://zhuanlan.zhihu.com/p/352042288)
 
@@ -75,14 +76,20 @@ KeyWords：深度学习、机器学习、计算机视觉、人工智能。
 -  📜 [WACV 2021 论文大盘点-目标检测篇](https://zhuanlan.zhihu.com/p/345311150)
 
 
-<a name="2">
+<a name="3">
   
-## 2、ECCV 2020 分方向论文大盘点合集
+## 3、ECCV 2020 分方向论文大盘点合集
 
 -  📜 [ECCV 2020 分方向论文大盘点合集](https://github.com/52CV/ECCV-2020-Papers)
 
-<a name="1"/>
+<a name="2"/>
 
-## 1、CVPR 2020 分方向论文大盘点合集
+## 2、CVPR 2020 分方向论文大盘点合集
 
 -  📜 [CVPR 2020 分方向论文大盘点合集](https://github.com/52CV/CVPR-2020-Papers)
+
+<a name="1"/>
+
+## 1、资源分享-数据集/开源代码
+
+- :stars:[各路“一手资源”存储库](https://github.com/52CV/2020-Resource-sharing)
